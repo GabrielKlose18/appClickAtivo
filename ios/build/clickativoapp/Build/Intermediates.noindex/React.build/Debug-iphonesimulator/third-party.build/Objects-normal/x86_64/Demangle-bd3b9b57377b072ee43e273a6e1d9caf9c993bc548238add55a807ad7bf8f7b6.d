@@ -1,0 +1,24 @@
+dependencies: \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

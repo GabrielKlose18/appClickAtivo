@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:@react-native-community_async-storage] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/1d2cbadeee6bf7667b9e1134a7055ecf/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66da41e33de0e5cbf381c41fecd3e733/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5a59c7b48f0da9b49c07c6d5c36902b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/48db6f64357eea7887203316ed82d4f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c4f49142b4f3291551bc74f30de1cde9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ff6a01bf6efa66a16cdcf1dd56bce10e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6ea2c0bdf8f3afa60f7c02dbfcb65e0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a1f9165e21eb5cdeabec3b69691d3917/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/89533d48265529b60c2eadb86d680b88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/be36eb664cb1dc62cdd363782eefc244/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7b202ac1f616b1b28625ea60e16b3582/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0101bd0a6b2fdcb1791fc56a523100bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/69a15abb2a41431fedff4f57adfb6ec4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3df0a501753c286e22cfd76582fa1516/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bf49e9b2b128e3475e7b0c29f66458f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd728be109a981b3d69943e35f73af48/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/327fb93db18bb2884ea0e8390b0567c7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9de9cf76995f74cad993726de5d5f6df/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0ad3f4e8be95aba73799541d7d34efdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/27e8864bc94778fef8e2789e880db243/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/05ef789551b059856aa9bae6dfa06e99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44c823a355aa8712b9f3de09d4eded73/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c5d21afe90e470f511e8181052ea8fe3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5af3157f3b61b99b0fc63ef93f7150da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f5d3f90ae63af17afd89d86486f84717/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d9f93a9fe9eff27e7e06fab0f1bde1c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/68f991717c0f95629500102f45547e18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e0747218cdd5b7355ae2af3ae2addc43/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dfabb06f6551caaf46ccf9735f510b2c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f688d6e4b282eca61177a8782e44f248/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cfebdd8ce3f18452e3cd42c6bea42c40/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e60e6c127651b527e439786eb258a7ed/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2acb1aea64cdd8379feb81420851418e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4fae48f354258b3c2541b828e1c95b08/AndroidManifest.xml:2:1-9:12
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:6:22-75
+application
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:8:5-27:19
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/1d2cbadeee6bf7667b9e1134a7055ecf/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/1d2cbadeee6bf7667b9e1134a7055ecf/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd728be109a981b3d69943e35f73af48/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd728be109a981b3d69943e35f73af48/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/327fb93db18bb2884ea0e8390b0567c7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/327fb93db18bb2884ea0e8390b0567c7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2acb1aea64cdd8379feb81420851418e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2acb1aea64cdd8379feb81420851418e/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd728be109a981b3d69943e35f73af48/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:roundIcon
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:13:7-47
+	android:icon
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:12:7-40
+	android:allowBackup
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:networkSecurityConfig
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:10:7-67
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#com.clickativoapp.MainActivity
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/1d2cbadeee6bf7667b9e1134a7055ecf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/1d2cbadeee6bf7667b9e1134a7055ecf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66da41e33de0e5cbf381c41fecd3e733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/66da41e33de0e5cbf381c41fecd3e733/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5a59c7b48f0da9b49c07c6d5c36902b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5a59c7b48f0da9b49c07c6d5c36902b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/48db6f64357eea7887203316ed82d4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/48db6f64357eea7887203316ed82d4f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c4f49142b4f3291551bc74f30de1cde9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c4f49142b4f3291551bc74f30de1cde9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ff6a01bf6efa66a16cdcf1dd56bce10e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ff6a01bf6efa66a16cdcf1dd56bce10e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6ea2c0bdf8f3afa60f7c02dbfcb65e0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6ea2c0bdf8f3afa60f7c02dbfcb65e0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a1f9165e21eb5cdeabec3b69691d3917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a1f9165e21eb5cdeabec3b69691d3917/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/89533d48265529b60c2eadb86d680b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/89533d48265529b60c2eadb86d680b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/be36eb664cb1dc62cdd363782eefc244/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/be36eb664cb1dc62cdd363782eefc244/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7b202ac1f616b1b28625ea60e16b3582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7b202ac1f616b1b28625ea60e16b3582/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0101bd0a6b2fdcb1791fc56a523100bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/0101bd0a6b2fdcb1791fc56a523100bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/69a15abb2a41431fedff4f57adfb6ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/69a15abb2a41431fedff4f57adfb6ec4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3df0a501753c286e22cfd76582fa1516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3df0a501753c286e22cfd76582fa1516/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bf49e9b2b128e3475e7b0c29f66458f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/bf49e9b2b128e3475e7b0c29f66458f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd728be109a981b3d69943e35f73af48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fd728be109a981b3d69943e35f73af48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/327fb93db18bb2884ea0e8390b0567c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/327fb93db18bb2884ea0e8390b0567c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9de9cf76995f74cad993726de5d5f6df/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9de9cf76995f74cad993726de5d5f6df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0ad3f4e8be95aba73799541d7d34efdf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0ad3f4e8be95aba73799541d7d34efdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/27e8864bc94778fef8e2789e880db243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/27e8864bc94778fef8e2789e880db243/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/05ef789551b059856aa9bae6dfa06e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/05ef789551b059856aa9bae6dfa06e99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44c823a355aa8712b9f3de09d4eded73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44c823a355aa8712b9f3de09d4eded73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c5d21afe90e470f511e8181052ea8fe3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c5d21afe90e470f511e8181052ea8fe3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5af3157f3b61b99b0fc63ef93f7150da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5af3157f3b61b99b0fc63ef93f7150da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f5d3f90ae63af17afd89d86486f84717/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f5d3f90ae63af17afd89d86486f84717/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d9f93a9fe9eff27e7e06fab0f1bde1c8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d9f93a9fe9eff27e7e06fab0f1bde1c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/68f991717c0f95629500102f45547e18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/68f991717c0f95629500102f45547e18/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e0747218cdd5b7355ae2af3ae2addc43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/e0747218cdd5b7355ae2af3ae2addc43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dfabb06f6551caaf46ccf9735f510b2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dfabb06f6551caaf46ccf9735f510b2c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f688d6e4b282eca61177a8782e44f248/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/f688d6e4b282eca61177a8782e44f248/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cfebdd8ce3f18452e3cd42c6bea42c40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/cfebdd8ce3f18452e3cd42c6bea42c40/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e60e6c127651b527e439786eb258a7ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e60e6c127651b527e439786eb258a7ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2acb1aea64cdd8379feb81420851418e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/2acb1aea64cdd8379feb81420851418e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4fae48f354258b3c2541b828e1c95b08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/clickdev/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/4fae48f354258b3c2541b828e1c95b08/AndroidManifest.xml:5:5-7:41
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/android/app/src/main/AndroidManifest.xml

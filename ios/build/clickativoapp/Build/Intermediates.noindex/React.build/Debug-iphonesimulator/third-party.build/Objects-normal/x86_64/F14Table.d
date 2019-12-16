@@ -1,0 +1,26 @@
+dependencies: \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Applications/XAMPP/xamppfiles/htdocs/clickativoapp/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
